@@ -4,4 +4,14 @@ settings.ini
 .vscode/
 CMakeSettings.json
 out/
+
+# Binaries
+**/bin/
+bin-int/
+
+# VS Files and folder
 .vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
